@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Jim McGowan
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Tech Executive
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://s.gravatar.com/avatar/c0656dea7033eda81d645d080aee4f70?s=80
 
 #
 # Flags below are optional
