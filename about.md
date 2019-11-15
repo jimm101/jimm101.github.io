@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Entrepreneur with deep technical experience and a long track record
+of building large-scale software and teams.
 
-### More Information
+[![alt text][image]][hyperlink]
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+  [hyperlink]: https://www.linkedin.com/in/jimm101/
+  [image]:  https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg(LinkedIn)
