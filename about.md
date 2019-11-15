@@ -7,7 +7,5 @@ permalink: /about/
 Entrepreneur with deep technical experience and a long track record
 of building large-scale software and teams.
 
-[![LinkedIn][image]][hyperlink]
-
-  [hyperlink]: https://www.linkedin.com/in/jimm101/
-  [image]: https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg(LinkedIn)
+I may have some availability for management and tech consulting,
+on a limited basis. Reach out through LinkedIn if you're interested.
