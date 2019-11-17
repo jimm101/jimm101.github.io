@@ -19,7 +19,7 @@ becomes this
     > $ yarn add count-interval
     bash: $: command not found
 
-Who needs this hassle? Just put an executable file named `$` somewhere in your path, with the contents `$@`.  On a mac you can try this in `/usr/local/bin/` like this:
+Who needs this hassle? Just put an executable file named `$` somewhere in your path, with the contents `"$@"`.  On a mac you can try this in `/usr/local/bin/` like this:
 
     echo '"$@"' > /usr/local/bin/$; chmod a+x /usr/local/bin/$
 
