@@ -21,7 +21,7 @@ becomes this
 
 Who needs this hassle? Just put an executable file named `$` somewhere in your path, with the contents `$@`.  On a mac you can try this in `/usr/local/bin/` like this:
 
-    echo '$@' > /usr/local/bin/$; chmod a+x /usr/local/bin/$
+    echo '"$@"' > /usr/local/bin/$; chmod a+x /usr/local/bin/$
 
 (To make it easier, I left off the obligatory `$` this time.)
 
@@ -32,5 +32,5 @@ Now you can leave that annoying `$` in!
 
 Why a file? Why not just an alias? Because bash says you can't.
 
-    > alias '$=$@'
+    > alias '$="$@"'
     bash: alias: `$': invalid alias name
